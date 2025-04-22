@@ -3,5 +3,5 @@ It includes data cleaning, visualization, and feature importance using Random Fo
 Libraries used: Pandas, Seaborn, Matplotlib, Scikit-learn, Missingno.
 Goal: Help predict and optimize crop production using machine learning.
 
-![Alt Text]()
+![Alt Text](crop.png)
 
